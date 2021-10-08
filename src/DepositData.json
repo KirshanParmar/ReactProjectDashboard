@@ -1,0 +1,86 @@
+{
+    "active": [
+        {
+            "property": {
+                "address": {
+                    "street": "771 Lost Round",
+                    "city": "Karachi",
+                    "state": "Sindh"
+                },
+                "imageUrl": "lostround.png"
+            },
+            "moveInDate": "25 September 2021",
+            "rent": 3000.00,
+            "deposit": {
+                "amount": 9000.00,
+                "type": "First, Last & Security"
+            },
+            "status": {
+                "message": "Awaiting Bank Processing",
+                "level": 2 
+            }
+        },
+        {
+            "property": {
+                "address": {
+                    "street": "1491 Jagged Arbor",
+                    "city": "Islamabad",
+                    "state": "Pakistan"
+                },
+                "imageUrl": "jaggedarbor.png"
+            },
+            "moveInDate": "09 October 2021",
+            "rent": 2300.00,
+            "deposit": {
+                "amount": 4600.00,
+                "type": "First & Last"
+            },
+            "status": {
+                "message": "Payment Processed",
+                "level": 3 
+            }
+        }
+    ],
+    "closed": [
+        {
+            "property": {
+                "address": {
+                    "street": "1694 Noble Cape",
+                    "city": "Lahore",
+                    "state": "Punjab"
+                },
+                "imageUrl": "noblecape.png"
+            },
+            "moveInDate": "3 August 2021",
+            "rent": 3300.00,
+            "deposit": {
+                "amount": 6900.00,
+                "type": "Complete"
+            },
+            "status": {
+                "message": "Awaiting Bank Processing",
+                "level": 3 
+            }
+        },
+        {
+            "property": {
+                "address": {
+                    "street": "1141 Tawny Maze",
+                    "city": "Hyderabad",
+                    "state": "Sindh"
+                },
+                "imageUrl": "tawnymaze.png"
+            },
+            "moveInDate": "12 Septemnber 2021",
+            "rent": 2500.00,
+            "deposit": {
+                "amount": 7500.00,
+                "type": "First, Last & Security"
+            },
+            "status": {
+                "message": "Expired: No Payment Received",
+                "level": 1 
+            }
+        }
+    ]
+}
